@@ -1,0 +1,2 @@
+include ':app', ':file_writer_lib'
+rootProject.name='File Writer Java Practice'
